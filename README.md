@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SwathiNadendla
-- 👀 I’m interested in bioinformatics analysis for disease driven research
-- 🌱 I’m currently learning to use pipelines
+- 👋 Hi, I’m @SwathiNadendla a PhD student in Bioinformatics and computational biology at Iowa state university
+- 👀 I’m interested in genomic data analysis 
+- 🌱 I’m currently learning to use pipelines and aiming to build one
 - 💞️ I’m looking to collaborate on learning more about bioinformatics
 - 📫 How to reach me mailto swathinadendla98@gmail.com
 - 😄 Pronouns: she/her
